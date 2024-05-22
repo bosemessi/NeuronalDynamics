@@ -3,4 +3,4 @@
 
 ## Qs 2. 
 
-$ d^2u/dt^2 = df/du du/dt $ For this to be zero at a point where $ du/dt $ is not, $ df/du = 0$, which defines the rheobase voltage value.
+$` d^2u/dt^2 = (df/du) (du/dt) `$ For this to be zero at a point where $` du/dt `$ is not, $` df/du = 0`$, which defines the rheobase voltage value.
