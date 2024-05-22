@@ -1,0 +1,1 @@
+# End of the chapter questions. Question 1 has been done on Mathematica; rest are just easier to type up on Latex/Markdown as they are all analytical stuff.
